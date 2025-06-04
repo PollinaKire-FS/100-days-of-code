@@ -1,4 +1,4 @@
-# 🛠️ Kire’s 100 Days of Code Challenge
+# Kire’s 100 Days of Code Challenge
 
 ## Main Commitment  
 **I will code for at least 1 hour every day for 100 days**
