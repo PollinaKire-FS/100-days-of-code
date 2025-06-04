@@ -3,7 +3,7 @@
 ## Main Commitment  
 **I will code for at least 1 hour every day for 100 days**
 
-**Start Date:** June 2, 2025
+**Start Date:** June 3, 2025
 
 ---
 
