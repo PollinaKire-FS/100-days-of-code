@@ -1,18 +1,18 @@
 # 🛠️ Kire’s 100 Days of Code Challenge
 
 ## Main Commitment  
-**I will code for at least 1 hour every day for 100 days — no tutorials, no fluff — just real projects and real growth.**
+**I will code for at least 1 hour every day for 100 days**
 
-**Start Date:** June 3, 2025
+**Start Date:** June 2, 2025
 
 ---
 
 ## My Rules  
 1. I’ll post daily updates on **Bluesky** using the hashtag `#100DaysOfCode`.  
-2. Work stuff doesn’t count. This challenge is for me and my future.  
+2. Work stuff doesn’t count. 
 3. I’ll push code to GitHub every day (even if it’s small).  
 4. I’ll log my progress in [`log.md`](log.md) — including links to commits, posts, or screenshots.  
-5. I’ll focus on **real projects**, not tutorials. I’m here to make things, not just watch videos.
+5. I’ll focus on **real projects**, not tutorials.
 
 ---
 
