@@ -28,3 +28,16 @@ It felt good to start small. I’ve been back in tech for a year but haven’t b
 **Links**  
 🌈 [Live site](https://kirenia.me/girl-dinner)  
 🗂 [GitHub repo](https://github.com/PollinaKire-FS/girl-dinner)
+
+---
+
+Day 2 – June 4, 2025
+
+**Today’s Progress**  
+Connected to the Bluesky API using @atproto/api. Logged in with an app password, fetched my latest post, and printed the text, date, and image URL in the terminal. Created a Node script to save the post data as a local post.json file so the browser can fetch and display it later. It's throwing some errors, but that's a problem for tomorrow.
+
+**Thoughts**  
+I hit some snags with ES modules vs. CommonJS and browser imports, but now I get why that distinction matters.
+
+**Links**  
+🗂 [GitHub repo](https://github.com/kirecoding/bluesky-cover-page)
